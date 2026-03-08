@@ -20,7 +20,7 @@ nlm login
 ```
 
 ### 3. MCPサーバーの設定追加
-AntigravityからこのMCPサーバーを利用できるようにするため、設定ファイル（`C:\Users\mikio\.gemini\antigravity\mcp_config.json`）へ以下の構成を登録しました。
+AntigravityからこのMCPサーバーを利用できるようにするため、設定ファイル（`C:\Users\(username)\.gemini\antigravity\mcp_config.json`）へ以下の構成を登録しました。
 
 ```json
 {
