@@ -28,8 +28,9 @@ AntigravityからこのMCPサーバーを利用できるようにするため、
     "notebooklm": {
       "command": "uvx",
       "args": [
+        "--from",
         "notebooklm-mcp-cli",
-        "mcp"
+        "notebooklm-mcp"
       ]
     }
   }
