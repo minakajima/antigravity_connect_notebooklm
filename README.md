@@ -1,0 +1,2 @@
+# antigravity_connect_notebooklm
+Google AntigravityからGoogle NotebookLMへ接続するテスト
